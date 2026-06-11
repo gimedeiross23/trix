@@ -1,19 +1,34 @@
-## oii, sou a gi
+# Oii, eu sou a Gi 👋
 
-<picture>
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gimedeiross23&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gimedeiross23&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gimedeiross23&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+💻 Estudante de Engenharia de Software na Universidade de Brasília
+🚀 Aprendendo desenvolvimento web, Python e Git/GitHub  
 
-<div> 
-  <a href="https://instagram.com/_gimedeiross" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/trix.saturn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+---
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gimedeiross23&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimedeiross23&layout=compact&theme=tokyonight"/>
+
 </div>
+
+---
+
+## 🌐 Redes Sociais
+
+<div align="center">
+
+<a href="https://instagram.com/_gimedeiross" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/trix.saturn" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+⭐ Seja bem-vindo(a) ao meu perfil!
