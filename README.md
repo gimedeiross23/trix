@@ -1,15 +1,16 @@
 # Oii, eu sou a Gi 👋
 
 💻 Estudante de Engenharia de Software na Universidade de Brasília
+
 🚀 Aprendendo desenvolvimento web, Python e Git/GitHub  
 
 ---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gimedeiross23&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gimedeiross&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimedeiross23&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimedeiross&layout=compact&theme=tokyonight"/>
 
 </div>
 
